@@ -1,22 +1,22 @@
 [
   {
-    "title": "COMMUNITY",
-    "isExpanded": false,
+    "title": "MY ADDITIONAL CONFIGURATION",
+    "isExpanded": true,
     "links": [
       {
-        "iconUrl": "https://static-00.iconduck.com/assets.00/google-icon-2048x2048-czn3g8x8.png",
+        "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png",
         "label": "React",
         "url": "https://react.dev/"
       },
       {
-        "iconUrl": "https://www.svgrepo.com/show/353655/discord-icon.svg",
-        "label": "Discord",
-        "url": "https://discord.com"
+        "iconUrl": "https://www.svgrepo.com/download/304493/google.svg",
+        "label": "Google",
+        "url": "https://google.com/"
       },
       {
         "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg",
-        "label": "GitHub",
-        "url": "https://github.com/Zaperex"
+        "label": "Github",
+        "url": "https://github.com/"
       }
     ]
   }
