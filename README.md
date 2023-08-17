@@ -17,8 +17,8 @@ If you hit <http://localhost:8080/tech-radar> you'll get a sample data for tech 
 
 Can use oc CLI as below or use import from git flow from OpenShift Developer Console
 
-    oc new-app https://github.com/invincibleJai/test-showcase-app
-    oc expose svc/test-showcase-app
+    oc new-app https://github.com/Zaperex/backstage-customization-provider
+    oc expose svc/backstage-customization-provider
 
 ## Acknowledgements
 
